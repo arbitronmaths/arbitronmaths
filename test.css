@@ -1,0 +1,59 @@
+body{
+
+    background-color: rgb(12, 9, 9);
+}
+.group1 {
+    text-align: center;
+    color: white;
+
+}
+.group2 {
+    text-align: center;
+    color: rgb(90, 6, 86);
+
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+
+}
+table,th,tr,td {
+
+    border-style: groove;
+    background-color: rgb(233, 200, 71);
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+button{
+    text-align: center;
+    background-color: rgb(170, 224, 42);
+    cursor: pointer;
+}
+.ccp-button:hover{
+    background-color: rgb(18, 114, 199);
+}
+.hc-button:hover{
+    background-color: rgb(18, 114, 199);
+}
+.sing-button:hover{
+    background-color: rgb(8, 164, 115);
+}
+.wa-button:hover{
+    background-color: rgb(8, 164, 115);
+}
+.click-button:hover{
+    background-color: aliceblue;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-size-adjust: 10px;
+}
+
